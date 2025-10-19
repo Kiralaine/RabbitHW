@@ -1,0 +1,30 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQ.9918D484.Up2Date
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\refint\RabbitMQMovieBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQMovieBuilder\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\ref\RabbitMQMovieBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.deps.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Application.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\bin\Debug\net8.0\RabbitMQMovieBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.AssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQ.19F8630D.Up2Date
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\refint\RabbitMQMovieBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\RabbitMQMovieBuilder.Application.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Movie\src\RabbitMQMovieBuilder.Application\obj\Debug\net8.0\ref\RabbitMQMovieBuilder.Application.dll

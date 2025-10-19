@@ -1,0 +1,22 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\refint\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCountryBuilder\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\ref\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.deps.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\bin\Debug\net8.0\RabbitMQCountryBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.AssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\refint\RabbitMQCountryBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\RabbitMQCountryBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Country\src\RabbitMQCountryBuilder.Domain\obj\Debug\net8.0\ref\RabbitMQCountryBuilder.Domain.dll

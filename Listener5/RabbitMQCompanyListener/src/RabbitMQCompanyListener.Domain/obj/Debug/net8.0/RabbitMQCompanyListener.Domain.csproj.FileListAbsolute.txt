@@ -1,0 +1,11 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\bin\Debug\net8.0\RabbitMQCompanyListener.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\bin\Debug\net8.0\RabbitMQCompanyListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\bin\Debug\net8.0\RabbitMQCompanyListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\refint\RabbitMQCompanyListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\RabbitMQCompanyListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Domain\obj\Debug\net8.0\ref\RabbitMQCompanyListener.Domain.dll

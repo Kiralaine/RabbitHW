@@ -1,0 +1,15 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\bin\Debug\net8.0\RabbitMQCompanyListener.Application.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\bin\Debug\net8.0\RabbitMQCompanyListener.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\bin\Debug\net8.0\RabbitMQCompanyListener.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\bin\Debug\net8.0\RabbitMQCompanyListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\bin\Debug\net8.0\RabbitMQCompanyListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQ.BEA1A764.Up2Date
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\refint\RabbitMQCompanyListener.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\RabbitMQCompanyListener.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQCompanyListener\src\RabbitMQCompanyListener.Application\obj\Debug\net8.0\ref\RabbitMQCompanyListener.Application.dll

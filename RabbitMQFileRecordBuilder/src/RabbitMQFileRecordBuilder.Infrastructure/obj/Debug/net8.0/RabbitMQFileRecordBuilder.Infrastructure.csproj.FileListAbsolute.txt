@@ -1,0 +1,17 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\bin\Debug\net8.0\RabbitMQFileRecordBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQ.41F907CC.Up2Date
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\refint\RabbitMQFileRecordBuilder.Infrastructure.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\RabbitMQFileRecordBuilder.Infrastructure.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQFileRecordBuilder\src\RabbitMQFileRecordBuilder.Infrastructure\obj\Debug\net8.0\ref\RabbitMQFileRecordBuilder.Infrastructure.dll

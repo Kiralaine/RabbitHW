@@ -1,0 +1,22 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\refint\RabbitMQActorBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQActorBuilder\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\ref\RabbitMQActorBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.deps.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\bin\Debug\net8.0\RabbitMQActorBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.AssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\refint\RabbitMQActorBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\RabbitMQActorBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Actor\src\RabbitMQActorBuilder.Domain\obj\Debug\net8.0\ref\RabbitMQActorBuilder.Domain.dll

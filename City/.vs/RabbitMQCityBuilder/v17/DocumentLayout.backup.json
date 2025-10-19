@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RabbitMQ\\RabbitMQCityBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC32DB-6D9C-4DC5-987D-4C973C56A8CE}|src\\RabbitMQCityBuilder.Api\\RabbitMQCityBuilder.Api.csproj|c:\\users\\windows 11\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\rabbitmq\\rabbitmqcitybuilder\\src\\rabbitmqcitybuilder.api\\endpoints\\cityendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC32DB-6D9C-4DC5-987D-4C973C56A8CE}|src\\RabbitMQCityBuilder.Api\\RabbitMQCityBuilder.Api.csproj|solutionrelative:src\\rabbitmqcitybuilder.api\\endpoints\\cityendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC32DB-6D9C-4DC5-987D-4C973C56A8CE}|src\\RabbitMQCityBuilder.Api\\RabbitMQCityBuilder.Api.csproj|c:\\users\\windows 11\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\rabbitmq\\rabbitmqcitybuilder\\src\\rabbitmqcitybuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC32DB-6D9C-4DC5-987D-4C973C56A8CE}|src\\RabbitMQCityBuilder.Api\\RabbitMQCityBuilder.Api.csproj|solutionrelative:src\\rabbitmqcitybuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RabbitMQ\\RabbitMQCityBuilder\\src\\RabbitMQCityBuilder.Api\\Endpoints\\CityEndPoints.cs",
+              "RelativeDocumentMoniker": "src\\RabbitMQCityBuilder.Api\\Endpoints\\CityEndPoints.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RabbitMQ\\RabbitMQCityBuilder\\src\\RabbitMQCityBuilder.Api\\Endpoints\\CityEndPoints.cs",
+              "RelativeToolTip": "src\\RabbitMQCityBuilder.Api\\Endpoints\\CityEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T06:00:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RabbitMQ\\RabbitMQCityBuilder\\src\\RabbitMQCityBuilder.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RabbitMQCityBuilder.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RabbitMQ\\RabbitMQCityBuilder\\src\\RabbitMQCityBuilder.Api\\Program.cs",
+              "RelativeToolTip": "src\\RabbitMQCityBuilder.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T04:55:25.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

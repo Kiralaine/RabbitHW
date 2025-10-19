@@ -1,0 +1,11 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\bin\Debug\net8.0\RabbitMQMovieListener.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\bin\Debug\net8.0\RabbitMQMovieListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\bin\Debug\net8.0\RabbitMQMovieListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\refint\RabbitMQMovieListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\RabbitMQMovieListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQMovieListener\src\RabbitMQMovieListener.Domain\obj\Debug\net8.0\ref\RabbitMQMovieListener.Domain.dll

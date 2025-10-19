@@ -1,0 +1,92 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.staticwebassets.endpoints.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.exe
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.runtimeconfig.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Infrastructure.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Infrastructure.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\scopedcss\bundle\RabbitMQVehicleBuilder.Api.styles.css
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQ.8FD3F1CD.Up2Date
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\refint\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.genruntimeconfig.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\ref\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQVehicleBuilder\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.staticwebassets.endpoints.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.exe
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.deps.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.runtimeconfig.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Api.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Infrastructure.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Application.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Infrastructure.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\bin\Debug\net8.0\RabbitMQVehicleBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.csproj.AssemblyReference.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.AssemblyInfoInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.AssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\scopedcss\bundle\RabbitMQVehicleBuilder.Api.styles.css
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\refint\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQVehicleBuilder.Api.genruntimeconfig.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\ref\RabbitMQVehicleBuilder.Api.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\Vehicle\src\RabbitMQVehicleBuilder.Api\obj\Debug\net8.0\RabbitMQ.3DCFC60F.Up2Date

@@ -1,0 +1,11 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\bin\Debug\net8.0\RabbitMQVehicleListener.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\bin\Debug\net8.0\RabbitMQVehicleListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\bin\Debug\net8.0\RabbitMQVehicleListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\refint\RabbitMQVehicleListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\RabbitMQVehicleListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQVehicleListener\src\RabbitMQVehicleListener.Domain\obj\Debug\net8.0\ref\RabbitMQVehicleListener.Domain.dll

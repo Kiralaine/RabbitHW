@@ -1,0 +1,30 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQ.9918D484.Up2Date
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\refint\RabbitMQCityBuilder.Application.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\RabbitMQCityBuilder\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\ref\RabbitMQCityBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.deps.json
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Application.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Domain.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\bin\Debug\net8.0\RabbitMQCityBuilder.Domain.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.AssemblyInfo.cs
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\refint\RabbitMQCityBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQCityBuilder.Application.pdb
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\ref\RabbitMQCityBuilder.Application.dll
+C:\Users\Kafka\Downloads\Telegram Desktop\RabbitMQ\RabbitMQ\City\src\RabbitMQCityBuilder.Application\obj\Debug\net8.0\RabbitMQ.D9C8A13F.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWeoFIb1izI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 11\\OneDrive\\Рабочий стол\\RabbitMQ\\RabbitMQFileRecordBuilder\\src\\RabbitMQFileRecordBuilder.Application\\RabbitMQFileRecordBuilder.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

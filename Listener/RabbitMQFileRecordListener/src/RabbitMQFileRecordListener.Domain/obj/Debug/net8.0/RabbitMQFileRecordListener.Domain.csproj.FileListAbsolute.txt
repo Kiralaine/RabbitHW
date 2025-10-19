@@ -1,0 +1,11 @@
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\bin\Debug\net8.0\RabbitMQFileRecordListener.Domain.deps.json
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\bin\Debug\net8.0\RabbitMQFileRecordListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\bin\Debug\net8.0\RabbitMQFileRecordListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\refint\RabbitMQFileRecordListener.Domain.dll
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\RabbitMQFileRecordListener.Domain.pdb
+C:\Users\Windows 11\OneDrive\Рабочий стол\RabbitMQ\Listener\RabbitMQFileRecordListener\src\RabbitMQFileRecordListener.Domain\obj\Debug\net8.0\ref\RabbitMQFileRecordListener.Domain.dll

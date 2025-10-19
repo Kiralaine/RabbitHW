@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WACz1uEjsy8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kafka\\Downloads\\Telegram Desktop\\RabbitMQ\\RabbitMQ\\Vehicle\\src\\RabbitMQVehicleBuilder.Application\\RabbitMQVehicleBuilder.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kafka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
